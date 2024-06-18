@@ -1,0 +1,16 @@
+
+k	java:S116"ORename this field "Duse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìæò8¶ÑÜéş1
+p	java:S116/"ORename this field "FAUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÔçÜüÿÿÿÿ8·ÑÜéş1
+™	java:S1161"RRename this field "NameSbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÒ¼ùÿÿÿÿ8é÷”á÷1J$fb6b75fc-c6d0-41e4-a724-1871dae7b635
+•	java:S1163"SRename this field "USBackbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌØ±8ê÷”á÷1J$98e1e34b-b649-4a45-9705-0ef151540281
+—	java:S1165"URename this field "USIDSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘±¢›8ê÷”á÷1J$60a7b8fc-75eb-4e79-933f-157a77ed2a1d
+	java:S1167"WRename this field "USNameSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Â×şùÿÿÿÿ8ê÷”á÷1J$87f7d607-730d-4363-8e25-c9de96ff0bd4
+”	java:S1169"RRename this field "USSIDbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿä¾¹8ê÷”á÷1J$c17e086b-beb9-460e-bac8-2b6a283d22e1
+j	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¼õÁ8½ÑÜéş1
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“£Ìöúÿÿÿÿ8¾ÑÜéş1
+i	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÈÍ8ÀÑÜéş1
+o	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¬‹Áÿÿÿÿÿ8ÁÑÜéş1
+]
+java:S1128	";Remove this unused import 'org.example.model.dao.SkillDAO'.(Õ­•‰ÿÿÿÿÿ8ÂÑÜéş1
+W
+java:S1128";Remove this unused import 'org.example.model.entity.Skill'.(á¨÷f8ÂÑÜéş1

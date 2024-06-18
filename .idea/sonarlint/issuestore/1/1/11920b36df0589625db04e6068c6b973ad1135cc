@@ -1,0 +1,18 @@
+
+o	java:S116"NRename this field "Dsk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Şïåÿÿÿÿÿ8¶ÒÜéş1
+o	java:S116."NRename this field "FAS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¿²´úÿÿÿÿ8·ÒÜéş1
+•	java:S1160"SRename this field "SKBackbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ³¸Ÿ8¤“»á÷1J$e7df11e9-1f1c-4cab-861f-01d6a58bd6f6
+œ	java:S1162"URename this field "SKIDSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÕ˜ëıÿÿÿÿ8¤“»á÷1J$0617891a-d018-4b8a-80d1-9653fc6e81e7
+•	java:S1164"TRename this field "SKNameSbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïİ8¤“»á÷1J$8604a7bf-5087-406c-a250-7a7bcd2628a6
+	java:S1166"WRename this field "SKNameSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñúìÿÿÿÿÿÿ8¤“»á÷1J$da36a09d-1c49-42a9-9c85-7ea0e6b87162
+™	java:S1168"RRename this field "SKSIDbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è´ş¹øÿÿÿÿ8¥“»á÷1J$454cc4ba-d034-407e-ad8b-886cc8a7fa1b
+j	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¼õÁ8»ÒÜéş1
+o	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“£Ìöúÿÿÿÿ8¼ÒÜéş1
+i	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÈÍ8¾ÒÜéş1
+o	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÙÛÄÿÿÿÿÿ8¿ÒÜéş1
+Z
+java:S1128	"=Remove this unused import 'org.example.model.dao.FactionDAO'.(îÔ¹ó8ÀÒÜéş1
+Z
+java:S1128"=Remove this unused import 'org.example.model.entity.Faction'.(–ğôõ8ÁÒÜéş1
+]
+java:S1128";Remove this unused import 'org.example.view.Scenes.TSKILL'.(•¢×Éıÿÿÿÿ8ÁÒÜéş1

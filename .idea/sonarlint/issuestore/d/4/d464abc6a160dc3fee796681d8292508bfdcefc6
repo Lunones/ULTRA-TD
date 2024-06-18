@@ -1,0 +1,30 @@
+
+“	java:S116b"QRename this field "Backbt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¢ï8êºë”ş1J$dbe729d7-3700-4496-a968-3258c1de035e
+š	java:S116d"SRename this field "DeleteUn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾õÒşÿÿÿÿ8êºë”ş1J$5d2aa1bd-6757-4432-a0d7-bbd50edbbfbe
+—	java:S116f"URename this field "ListSkills" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÌû—8êºë”ş1J$60e83f7e-b28b-49a9-a885-92dce21b927a
+•	java:S116h"SRename this field "ListUser" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Õ²8êºë”ş1J$eec1f0ce-9f75-4157-8a90-71198b727578
+š	java:S116j"SRename this field "ModifyUn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸¢üÿÿÿÿ8êºë”ş1J$e213a325-a722-435f-83d2-d79919a88534
+’	java:S116l"PRename this field "NewUn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àà”Ş8êºë”ş1J$88a8b0be-e292-489d-8f02-eddabd1fa908
+“	java:S116n"QRename this field "SaveUn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èº³8êºë”ş1J$777c9ea3-ad28-4e6f-8b96-51ecf966fb37
+
+java:S1450#"VRemove the "idSkill" field and declare it as a local variable in the relevant methods.(Ÿ©àåùÿÿÿÿ8à¨†2J$0f857152-591f-4f7c-844f-4ea9b9ada4f6
+˜
+java:S1450$"URemove the "idUser" field and declare it as a local variable in the relevant methods.(¦ÈÁË8á¨†2J$5a297d6f-5b24-4488-b430-436a431efdc5
+–
+java:S1450 "SRemove the "news" field and declare it as a local variable in the relevant methods.(Ô†Ğ¶8ã¨†2J$27887c39-96a5-4876-813e-261518d3c9de
+–
+java:S1450!"SRemove the "newu" field and declare it as a local variable in the relevant methods.(¦õß8å¨†2J$30e4624f-b3e9-49ed-8670-cf64eab8c35e
+	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÈĞ»8ğºë”ş1J$962f12dd-2287-4355-952b-93604d8f320c
+p	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠË¨—şÿÿÿÿ8şï†2
+k	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é–ë±8…ğ†2
+k	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê‹Êˆ8“ğ†2
+j	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œã¤@8•ğ†2
+k	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¼õÁ8 ğ†2
+Z
+java:S1128"=Remove this unused import 'org.example.model.dao.FactionDAO'.(îÔ¹ó8§ğ†2
+Z
+java:S1128"=Remove this unused import 'org.example.model.entity.Faction'.(–ğôõ8§ğ†2
+s
+java:S1068#"+Remove this unused "idSkill" private field.(Ÿ©àåùÿÿÿÿ8Õ©†2J$5343c217-a8f4-4fd2-b2de-4a36569460c3
+m
+java:S1068$"*Remove this unused "idUser" private field.(¦ÈÁË8Ö©†2J$40768466-cbe4-47c4-a582-74596827922f
